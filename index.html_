@@ -1,0 +1,98 @@
+
+<html>
+<head>
+  <title>Mary Lalaine Saludes</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #000; /* Dark background */
+      color: #fff; /* White text */
+    }
+
+    header {
+      background-color: #503dac; /* Lighter background for header */
+      padding: 20px;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 2.5em;
+    }
+
+    h2 {
+      font-size: 1.5em;
+      margin-top: 30px;
+    }
+
+    .profile-image {
+      width: 200px;
+      border-radius: 50%;
+      margin: 20px auto;
+    }
+
+    .projects {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin-top: 30px;
+    }
+
+    .project {
+      width: 30%;
+      margin-bottom: 20px;
+      padding: 10px;
+      border: 1px solid #fff;
+      border-radius: 5px;
+    }
+
+    .project img {
+      width: 100%;
+      border-radius: 5px;
+    }
+
+    nav {
+      text-align: right;
+      margin-top: 20px;
+    }
+
+    nav a {
+      color: #fff;
+      margin-left: 10px;
+      text-decoration: none;
+    }
+
+    .about {
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <img src="mary.jpg" alt="Mary Lalaine A. Saludes" class="profile-image">
+      <h1>Mary Lalaine Saludes</h1>
+      <h2>IT Project Manager </h2>
+    </header>
+
+    <div class="about">
+      <p> I am a IT student that wants to purse a job as a IT Project Manager once I already graduated in my 4 yrs. course. IT project managers oversee the planning, execution, and delivery of technology projects within an organization. They coordinate teams, manage budgets, and ensure that projects meet deadlines and objectives. Strong leadership, communication, and organizational skills are essential for success in this role, making it crucial for the timely and efficient implementation of IT initiatives.IT.</p>
+    </div>
+
+   
+
+      
+      
+    </div>
+
+    
+  </div>
+</body>
+</html>
